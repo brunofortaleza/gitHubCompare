@@ -4,8 +4,6 @@ import GlobalStyle from "./styles/Global";
 
 import Main from "./pages/Main";
 
-// Aula 02/09
-
 const App = () => (
   <Fragment>
     <GlobalStyle />
