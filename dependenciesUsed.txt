@@ -1,0 +1,5 @@
+styled-components
+axios
+prop-types
+moment (Usado para formatar a Data)
+font-awesome (Usado na tela de carregamento)
